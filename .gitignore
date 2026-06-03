@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large local artifacts
+*.zip
+*.pkl
+*.pt
+*.pth
+dataset/
+MPNet-master/
